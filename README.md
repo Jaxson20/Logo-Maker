@@ -8,12 +8,13 @@ Open Google and put the URL for the website in it.
 To use this Logo make when you type node index.js into the terminal then you will be asked a question. the questions are to enter up to three characters, enter text color, choose a shape, and enter shape color. once all of those are answered then it will create a logo. 
 
 # Visual Studio Code 
-
+https://1drv.ms/i/s!AjsvYdlJ0aVdhhLE15PuYzj_P37e?e=mxaOSR
 # Website  
 
 # picture of the live site 
 
 # Example video 
+https://drive.google.com/file/d/1KQ2WnWbAGLr3EgiaxsDRaOobVBpML9nb/view?usp=sharing
 
 # Credits 
 KU Bootcamp, Module 10, Google,
