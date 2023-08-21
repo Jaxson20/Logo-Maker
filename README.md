@@ -10,9 +10,9 @@ To use this Logo make when you type node index.js into the terminal then you wil
 # Visual Studio Code 
 https://1drv.ms/i/s!AjsvYdlJ0aVdhhLE15PuYzj_P37e?e=mxaOSR
 # Website  
-
+https://1drv.ms/i/s!AjsvYdlJ0aVdhhOIb2dRx21_3LG0?e=zcDage
 # picture of the live site 
-
+https://1drv.ms/i/s!AjsvYdlJ0aVdhhSP53W89xxgT2bq?e=8YaLq3
 # Example video 
 https://drive.google.com/file/d/1KQ2WnWbAGLr3EgiaxsDRaOobVBpML9nb/view?usp=sharing
 
