@@ -4,19 +4,21 @@ This is a logo maker. This logo maker is useful because it will create a logo ba
 # Installation  
 Open Google and put the URL for the website in it.
 
-Usage - To use this Logo make when you type node index.js into the terminal then you will be asked a question. the questions are to enter up to three characters, enter text color, choose a shape, and enter shape color. once all of those are answered then it will create a logo. 
+# Usage 
+To use this Logo make when you type node index.js into the terminal then you will be asked a question. the questions are to enter up to three characters, enter text color, choose a shape, and enter shape color. once all of those are answered then it will create a logo. 
 
-Visual Studio Code - 
+# Visual Studio Code 
 
-Website - 
+# Website  
 
-picture of the live site - 
+# picture of the live site 
 
-Example video -
+# Example video 
 
-Credits KU Bootcamp, Module 10, Google,
+# Credits 
+KU Bootcamp, Module 10, Google,
 
-License MIT License
+# License MIT License
 
 Copyright (c) 2023 Jaxson20
 
